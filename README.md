@@ -55,3 +55,16 @@ I am a Machine Learning Engineer from India. <img src="https://media.giphy.com/m
   <img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-plain.svg" title="Ubuntu" alt="Ubuntu" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
+
+
+---
+
+### :fire: My Stats :
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Ritwiz20&theme=dark&background=000000)](https://git.io/streak-stats)
+
+---
+
+### :fire: Languages :
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ritwiz20&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
