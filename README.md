@@ -61,7 +61,8 @@ I am a Machine Learning Engineer from India. <img src="https://media.giphy.com/m
 
 ### :fire: My Stats :
     
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ritwiz20&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide=issues,prs,contribs&card_width=500px)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ritwiz20&show_icons=true&theme=radical&include_all_commits=true&hide=issues,prs,contribs&count_private=true&card_width=500px)
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Ritwiz20&theme=highcontrast&mode=weekly&include_all_commits=true&count_private=true)](https://git.io/streak-stats)
     
@@ -70,7 +71,7 @@ I am a Machine Learning Engineer from India. <img src="https://media.giphy.com/m
 
 ### :fire: Languages :
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ritwiz20&layout=compact&theme=vision-friendly-dark&card_width=500px)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ritwiz20&theme=vision-friendly-dark&card_width=500px)](https://github.com/anuraghazra/github-readme-stats)
     
 ---
 
